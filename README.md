@@ -14,4 +14,4 @@ And finally it contains the following demo projects:
 - [Monitoring Third-Party Applications](./demo-projects/3-monitoring-third-party-applications/)
 - [Monitoring Own Applications](./demo-projects/4-monitoring-own-applications/)
 
-<< Back to [DevOps Bootcamp Module Overview](https://github.com/fsiegrist/twn-devops-bootcamp)
+<< Back to [DevOps Bootcamp Module Overview](https://github.com/franpanteli/twn-devops-bootcamp)
